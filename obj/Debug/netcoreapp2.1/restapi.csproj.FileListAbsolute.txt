@@ -1,0 +1,17 @@
+F:\Work Stuff\csharp\Restapi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Work Stuff\csharp\Restapi\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Work Stuff\csharp\Restapi\bin\Debug\netcoreapp2.1\restapi.deps.json
+F:\Work Stuff\csharp\Restapi\bin\Debug\netcoreapp2.1\restapi.runtimeconfig.json
+F:\Work Stuff\csharp\Restapi\bin\Debug\netcoreapp2.1\restapi.runtimeconfig.dev.json
+F:\Work Stuff\csharp\Restapi\bin\Debug\netcoreapp2.1\restapi.dll
+F:\Work Stuff\csharp\Restapi\bin\Debug\netcoreapp2.1\restapi.pdb
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.csprojAssemblyReference.cache
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.AssemblyInfoInputs.cache
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.AssemblyInfo.cs
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.csproj.CoreCompileInputs.cache
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.RazorAssemblyInfo.cache
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.RazorAssemblyInfo.cs
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.RazorTargetAssemblyInfo.cache
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.dll
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.pdb
+F:\Work Stuff\csharp\Restapi\obj\Debug\netcoreapp2.1\restapi.genruntimeconfig.cache

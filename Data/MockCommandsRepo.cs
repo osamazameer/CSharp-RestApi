@@ -16,7 +16,7 @@ namespace Restapi.Data
         }
         public apis GetDataById(int id)
         {
-            return new apis { Id = 0, Name = "Shujja", Designation = "Frontend Developer" }
+            return new apis { Id = 0, Name = "Osama", Designation = "Frontend Developer" };
         }
 
     }
